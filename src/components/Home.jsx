@@ -17,13 +17,13 @@ const Home = () => {
     <h2 className="text-4xl sm:text-7xl font-bold">
 
 <span className="bg-gradient-to-r from-purple-700 to-rose-700 text-transparent bg-clip-text">
-       Hi, i am a software engineer
+       Hi, i am Nikola Brasnic,
         </span>
         
     </h2>
 
     <p className="text-white py-4 max-wmd">
-        I am a software engineer who is passionate about creating software solutions that make a difference. I am always looking for new challenges and opportunities to learn and grow. I am proficient in a variety of programming languages and technologies and have experience working on a wide range of projects. I am a team player who is always willing to go the extra mile to get the job done. I am excited to bring my skills and experience to your team and help you achieve your goals.
+    I am a software engineer who is passionate about creating software solutions that make a difference. 
 
     </p>
 
